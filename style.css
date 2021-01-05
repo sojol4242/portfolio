@@ -96,7 +96,7 @@ span {
 
 .cards {
     height: 700px;
-    background: url(/images/exp-bg.png);
+    background: url(/portfolio/images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     overflow: hidden;
