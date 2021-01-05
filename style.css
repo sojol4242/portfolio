@@ -8,7 +8,7 @@
 
 body {
     min-width: 1200px;
-    background-image: url(/images/top-banner.png);
+    background-image: url(/portfolio/images/top-banner.png);
     background-repeat: no-repeat;
     background-position: top left;
 }
@@ -84,7 +84,7 @@ span {
 }
 
 #dream_section {
-    background: url(/images/dream-bg.png);
+    background: url(/portfolio/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right bottom;
 }
